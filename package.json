@@ -1,0 +1,24 @@
+{
+  "name": "belajar-web",
+  "version": "1.0.0",
+  "description": "Berawal dari sini, kedepannya aku akan mengupdate secara berkala tentang perkembanganku dalam belajar menjadi Web Programmer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukrillo/belajar-web.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mukrillo/belajar-web/issues"
+  },
+  "homepage": "https://github.com/Mukrillo/belajar-web#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
